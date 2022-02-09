@@ -40,11 +40,9 @@
 ![alt text ](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=#61DAFB) 
 ![alt text ](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
 
-
-
-  
-
-[![lzadev GitHub stats](https://github-readme-stats.vercel.app/api?username=lzadev)](https://github.com/anuraghazra/github-readme-stats)
+### ⚡ GitHub Stats
+[![lzadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzadev&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
+[![lzadev's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzadev&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lzadev/lzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -13,7 +13,7 @@
 <h3><img src="https://media.giphy.com/media/GX2iIUg8QmQeOT2SAT/giphy.gif" width="25"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Luis Zabala | 💻 Software Developer |	:globe_with_meridians: DO <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/GX2iIUg8QmQeOT2SAT/giphy.gif" width="25"></h3>
 </div>
 
-### 📫 Whre to find me
+### 📫 Where to find me
 [![JavaScript](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-zabala/)
 
 
